@@ -1,6 +1,15 @@
-# notappwithfierbase
+# How to open the program and the techniques used
 
-A new Flutter project.
+Download the program and then open it on vs code using the emulator
+
+1- Dart  Dart Programming Language: The built-in weather app uses a programming language
+
+2- Flutter Framework: : The Flutter Framework is the foundation of the built-in weather app. Flutter provides a cross-platform API that allows building beautiful and seamless user interfaces.
+
+3- API To get current weather data and forecasts. This data is called using an API
+
+4- HTTP  HTTP is short for “Hypertext Transfer Protocol” and is a protocol used to transfer information over the Internet. It is used to upload web pages, images, videos and other files from servers to your browser.
+
 
 ## Getting Started
 
